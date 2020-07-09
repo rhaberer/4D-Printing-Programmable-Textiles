@@ -17,7 +17,7 @@ HumanUi: https://www.food4rhino.com/app/human-ui \
 Anemone: https://www.food4rhino.com/app/anemone \
 Lunchbox: https://www.food4rhino.com/app/lunchbox \
 Meshedit: https://www.food4rhino.com/app/meshedit \
-Millipede: http://www.sawapan.eu
+Millipede: https://github.com/nickteeple/millipede-backup
 
 The script uses HumanUi to generate a frontend with options and quick-access buttons to control the script.
 
