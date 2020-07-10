@@ -1,6 +1,9 @@
 # 4D-Printing - Programmable-Textiles
 from Ronny Haberer, Patrick Bösch
 
+note: 10.07.2020 \
+I've added a legacy gh-file and a library folder for Rhino5-users.
+
 4D-Printing describes the self assembly of 3D-printed objects over a period of time. 
 With a structure printed on a stretched fabric, it is possible to “program” a textile. 
 The goal of the project was to discover rules and evaluating the possibilities of this technology. 
@@ -17,7 +20,9 @@ HumanUi: https://www.food4rhino.com/app/human-ui \
 Anemone: https://www.food4rhino.com/app/anemone \
 Lunchbox: https://www.food4rhino.com/app/lunchbox \
 Meshedit: https://www.food4rhino.com/app/meshedit \
-Millipede: https://github.com/nickteeple/millipede-backup
+Elefront: https://www.food4rhino.com/app/elefront \
+Clipper: https://www.food4rhino.com/app/clipper-grasshopper-and-rhino \
+Millipede: https://github.com/nickteeple/millipede-backup (if down use the files from the Rhino5 folder in this repo)
 
 The script uses HumanUi to generate a frontend with options and quick-access buttons to control the script.
 
