@@ -1,8 +1,8 @@
 # 4D-Printing - Programmable-Textiles
-from Ronny Haberer, Patrick Bösch
+from Ronny Haberer, Patrick Bösch for Rhino Win 5 & 6
 
 note: 10.07.2020 \
-I've added a legacy gh-file and a library folder for Rhino5-users.
+I've added a legacy gh-file and a library folder (including Millipede) for Rhino 5.
 
 4D-Printing describes the self assembly of 3D-printed objects over a period of time. 
 With a structure printed on a stretched fabric, it is possible to “program” a textile. 
