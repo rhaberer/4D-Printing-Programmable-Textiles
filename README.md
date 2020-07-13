@@ -16,13 +16,14 @@ Grasshopper libraries and plugins you will need:
 
 Kangaroo: https://www.food4rhino.com/app/kangaroo-physics \
 Weaverbird: http://www.giuliopiacentino.com/weaverbird/ \
+Clipper: https://www.food4rhino.com/app/clipper-grasshopper-and-rhino \
+Lunchbox: https://www.food4rhino.com/app/lunchbox \
+Millipede: https://github.com/nickteeple/millipede-backup (if down use the files from the Rhino5 folder in this repo)
+
 HumanUi: https://www.food4rhino.com/app/human-ui (not stripped-down version)\
 Anemone: https://www.food4rhino.com/app/anemone (not stripped-down version)\
-Lunchbox: https://www.food4rhino.com/app/lunchbox \
 Meshedit: https://www.food4rhino.com/app/meshedit (not stripped-down version)\
-Elefront: https://www.food4rhino.com/app/elefront (not stripped-down version)\
-Clipper: https://www.food4rhino.com/app/clipper-grasshopper-and-rhino \
-Millipede: https://github.com/nickteeple/millipede-backup (if down use the files from the Rhino5 folder in this repo)
+Elefront: https://www.food4rhino.com/app/elefront (not stripped-down version)
 
 The original-script uses HumanUi to generate a frontend with options and quick-access buttons to control the script.
 
