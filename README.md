@@ -1,8 +1,8 @@
 # 4D-Printing - Programmable-Textiles
-from Ronny Haberer, Patrick Bösch for Rhino Win 5 & 6
+from Ronny Haberer, Patrick Bösch for Rhino Win 5 & 6 (Bauhaus-Universität Weimar WS16/17)
 
 note: 10.07.2020 \
-I've added a legacy gh-file and a library folder (including Millipede) for Rhino 5.
+I've added a stripped-down version of the simulation, a legacy gh-file and a library-folder (including Millipede) for Rhino 5.
 
 4D-Printing describes the self assembly of 3D-printed objects over a period of time. 
 With a structure printed on a stretched fabric, it is possible to “program” a textile. 
@@ -16,15 +16,15 @@ Grasshopper libraries and plugins you will need:
 
 Kangaroo: https://www.food4rhino.com/app/kangaroo-physics \
 Weaverbird: http://www.giuliopiacentino.com/weaverbird/ \
-HumanUi: https://www.food4rhino.com/app/human-ui \
-Anemone: https://www.food4rhino.com/app/anemone \
+HumanUi: https://www.food4rhino.com/app/human-ui (not stripped-down version)\
+Anemone: https://www.food4rhino.com/app/anemone (not stripped-down version)\
 Lunchbox: https://www.food4rhino.com/app/lunchbox \
-Meshedit: https://www.food4rhino.com/app/meshedit \
-Elefront: https://www.food4rhino.com/app/elefront \
+Meshedit: https://www.food4rhino.com/app/meshedit (not stripped-down version)\
+Elefront: https://www.food4rhino.com/app/elefront (not stripped-down version)\
 Clipper: https://www.food4rhino.com/app/clipper-grasshopper-and-rhino \
 Millipede: https://github.com/nickteeple/millipede-backup (if down use the files from the Rhino5 folder in this repo)
 
-The script uses HumanUi to generate a frontend with options and quick-access buttons to control the script.
+The original-script uses HumanUi to generate a frontend with options and quick-access buttons to control the script.
 
 [![Watch the video](./img/prog_tex_3.png)](https://vimeo.com/228778791)
 
